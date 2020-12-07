@@ -1,5 +1,5 @@
 # WorkManagerKotlin
 
 # Read more : https://developer.android.com/jetpack/androidx/releases/work
-# Constraint : https://androidwave.com/workmanager-constraints/
+# Constraint : https://developer.android.com/topic/libraries/architecture/workmanager/how-to/define-work
 
